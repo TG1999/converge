@@ -1,0 +1,1 @@
+USe 'gulp minify-css' to minify CSS and pipe them into dist, make sure to change link href from 'styles' to 'dist/styles'
