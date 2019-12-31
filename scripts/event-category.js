@@ -68,7 +68,20 @@ let techData = []
 
 let informalarray=[]
 
-let literaryarray=[]
+let literaryarray=[
+  {
+    title: "Adi Shankaracharya Memorial Debate",
+    brief_description: "Description of the event",
+    link: "./event.html?eventname=adsmd",
+    image: "./assets/Events/adsmd.png"
+  },
+  {
+    title: "Jazbaat- The Open Mic Show",
+    brief_description: "Description of the event",
+    link: "./event.html?eventname=jzbaat",
+    image: "./assets/Events/jzbaat.png"
+  }
+];
 
 let sportsarray=[]
 
