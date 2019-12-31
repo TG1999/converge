@@ -71,13 +71,13 @@ let informalarray=[]
 let literaryarray=[
   {
     title: "Adi Shankaracharya Memorial Debate",
-    brief_description: "Description of the event",
+    brief_description: "Battle of words to show how can you convince audience and your opposition.",
     link: "./event.html?eventname=adsmd",
     image: "./assets/Events/adsmd.png"
   },
   {
     title: "Jazbaat- The Open Mic Show",
-    brief_description: "Description of the event",
+    brief_description: "Show us your talent in Poetry , Stand-up or story telling and mesmerize the audience with your talent",
     link: "./event.html?eventname=jzbaat",
     image: "./assets/Events/jzbaat.png"
   }
