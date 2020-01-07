@@ -1,4 +1,5 @@
 // Data
+console.log("changed again again");
 let cultureData =
 [
   {
@@ -12,7 +13,7 @@ let cultureData =
     title: "RIHAA",
     brief_description: "Street Play Event",
     link: "./event.html?eventname=rihaa",
-    image: "./assets/Events/rihaa.png"
+    image: "./assets/Events/rihaa.jpg"
   },
 
   {
@@ -60,11 +61,29 @@ let cultureData =
     brief_description: "Fashion Competition for Mr and Mrs Converge",
     link: "./event.html?eventname=mconv",
     image: "./assets/Events/mmc.png"
+  },
+  {
+  title: "ACOUSTICA",
+    brief_description: "SOLO SINGING EVENT",
+    link: "./event.html?eventname=acst",
+    image: "./assets/Events/acst.jpg"
+  },
+  {
+    title: "CRUSADE",
+    brief_description: "BATTLE OF BANDS",
+    link: "./event.html?eventname=crsd",
+    image: "./assets/Events/crsd.jpg"
   }
 
 ]
 
-let techData = []
+let techData = [{
+    title: "INQUIZZITIVE",
+    brief_description: "Quiz",
+    link: "./event.html?eventname=inquizzitive",
+    image: "./assets/Events/inquizitive.png"
+  }
+               ]
 
 let informalarray=[]
 
@@ -97,7 +116,7 @@ const InjectArray = (data,title) => {
                     <div class="event-card-content col-sm-7">
                         <h3>${event.title}</h3>
                         <p>${event.brief_description}</p>
-                        <button><a href="${event.link}">Details</a></button>
+                         <button><a href="${event.link}">Details</a></button>
                     </div>
       </div>
       `
