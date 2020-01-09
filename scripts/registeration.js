@@ -18,29 +18,28 @@ let formData =
         'Name': 'text',
         'year': 'number',
         'college': 'text',
-        'phone no.': 'text',
+        'phone no': 'text',
         'Email': 'email',
         'Team name': 'text',
         'Team size(1 or 2)': 'number',
-        'Team members': 'text',
-        'Team members details': 'text'
+        'Team members': 'text'
       }
   },
   {'code': "rihaa",
       'formFields': {
         'College Name': 'text',
         'Team Name': 'text',
-        'No. of Participants': 'number',
-        'Contact No.(POC 1)': 'text',
-        'Contact No. (POC 2)': 'text',
-        'Email ID.': 'email'
+        'No of Participants': 'number',
+        'Contact No (POC 1)': 'text',
+        'Contact No (POC 2)': 'text',
+        'Email ID': 'email'
       }
   },
   {'code': "mehfil",
       'formFields': {
         'Name of Participant': 'text',
         'College Name': 'text',
-        'Contact No.': 'text',
+        'Contact No': 'text',
         'Email ID': 'email'
       }
   },
@@ -121,9 +120,9 @@ let formData =
   {
     'code': "crsd",
       'formFields': {
-        "Band Name: ": 'text',
-        "Band's official e-mail ID OR any one member's e-mail ID:": 'email',
-        "College name: ": 'text',
+        "Band Name": 'text',
+        "Band's official e-mail ID OR any one member's e-mail ID": 'email',
+        "College name": 'text',
         'Member 1 Name': 'text',
         'Member 1 Contact': 'number',
         'Member 2 Name': 'text',
@@ -155,8 +154,8 @@ let formData =
         'First name': 'text',
         'Last name': 'text',
         'College name': 'text',
-        'Email id: ': 'email',
-        'Previous participations in marathon (yes/no): ': 'text',
+        'Email id': 'email',
+        'Previous participations in marathon (yes/no)': 'text',
       }
   }
   ]

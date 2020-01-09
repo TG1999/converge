@@ -55,13 +55,6 @@ let teamData =
   'Position': 'Student Welfare Head',
   'Facebook': '',
   'Linkedin': ''},
-  {
-  'Name': 'Samarth Sharma',
-  'Image': './assets/team/27.jpg',
-  'Position': 'Technical Head',
-  'Facebook': '',
-  'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
-  },
   {'Name': 'Nitin Singhal',
   'Image': './assets/team/25.jpg',
   'Position': 'UX UI Head',
@@ -72,6 +65,13 @@ let teamData =
   'Position': 'Lead Developer',
   'Facebook': 'https://www.facebook.com/lakshya.khera2212',
   'Linkedin': 'https://in.linkedin.com/in/lakshya-khera-52b67718'},
+{
+  'Name': 'Samarth Sharma',
+  'Image': './assets/team/27.jpg',
+  'Position': 'Technical Head',
+  'Facebook': '',
+  'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
+  },
   {'Name': 'HARSH VARSHNEY',
   'Image': './assets/team/9.jpg',
   'Position': 'Photography Head',
@@ -147,12 +147,18 @@ let teamData =
   'Position': 'CICR Head',
   'Facebook': 'https://www.facebook.com/shubham.shahi.102',
   'Linkedin': 'https://www.linkedin.com/in/shubham-s-200146111/'},
-  {'Name': 'Vipul kumar',
+
+{'Name': 'Vipul kumar',
   'Image': './assets/team/4.jpg',
   'Position': 'Chief editor',
   'Facebook': 'https://www.facebook.com/vipulsatyendra',
-  'Linkedin': 'https://www.linkedin.com/in/vipul-satyendra-b95747151'}]
-
+  'Linkedin': 'https://www.linkedin.com/in/vipul-satyendra-b95747151'},
+ {'Name': 'Bhartendu Dubey',
+  'Image': './assets/team/32.jpg',
+  'Position': 'Quizzing Head',
+  'Facebook': '',
+  'Linkedin': ''} 
+ ]
 
 teamDiv = document.getElementsByClassName("teamImageDiv")[0]
 
