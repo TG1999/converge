@@ -134,11 +134,17 @@ let sportsarray=[
     link: "./event.html?eventname=bdmntngirls",
     image: "./assets/Events/bdmntngirls.png"
   },
-  {
-    title: "Volleyball boys and girls",
+ {
+    title: "Volleyball boys",
     brief_description: "Minimum 6 players in a team and maximum 12 players",
-    link: "./event.html?eventname=vllyball",
-    image: "./assets/Events/vllyball.png"
+    link: "./event.html?eventname=vllyballb",
+    image: "./assets/Events/vllyballb.png"
+  },
+  {
+    title: "Volleyball girls",
+    brief_description: "Minimum 6 players in a team and maximum 12 players",
+    link: "./event.html?eventname=vllyballg",
+    image: "./assets/Events/vllyballg.png"
   },
   {
     title: "Football",
