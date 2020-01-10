@@ -264,16 +264,16 @@ eventdata=[
       image:"./assets/Events/bdmntnboys.png",
       venue:"JIIT 128",
       title:"Badminton boys",
-      time:"9:00:00 AM",
-      date:"31-01-20",
-      description:`Minimum 4 players in a team maximum 5 players<br>
+      time:"TBA",
+      date:"TBA",
+      description:'',
+      rules:`Minimum 4 players in a team maximum 5 players<br>
         All matches will be of 21 points (Best of 3)<br>
         All the players should be of same college.<br>
         ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
         For any queries/registration, contact:<br>
         Chetan - 9891691770<br>
         Kartikeya - 9140478390`,
-      rules:"TBA",
       prizes:"TBA",
       code:"bdmntnboys",
       link:'./register.html?q=bdmntnboys'
@@ -282,16 +282,16 @@ eventdata=[
       image:"./assets/Events/bdmntngirls.png",
       venue:"JIIT 128",
       title:"Badminton girls",
-      time:"9:00:00 AM",
-      date:"31-01-20",
-      description:`Minimum 2 players in a team maximum 3 players<br>
+      time:"TBA",
+      date:"TBA",
+      description:'',
+      rules:`Minimum 2 players in a team maximum 3 players<br>
         All matches will be of 21 points (Best of 3)<br>
         All the players should be of same college.<br>
         ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK <br>
         For any queries/registration, contact:<br>
         Chetan - 9891691770<br>
         Kartikeya - 9140478390`,
-      rules:"TBA",
       prizes:"TBA",
       code:"bdmntngirls",
       link:'./register.html?q=bdmntngirls'
@@ -299,10 +299,11 @@ eventdata=[
     {
       image:"./assets/Events/vllyballb.png",
       venue:"JIIT 128",
-      title:"Volleyball boys",
-      time:"9:00:00 AM",
-      date:"31-01-20",
-      description:`Maximum number of players = 12 in a team.<br><br>
+      title:"Volleyball boys and girls",
+      time:"TBA",
+      date:"TBA",
+      description:'',
+      rules:`Maximum number of players = 12 in a team.<br><br>
         - Minimum number of players = 6 in a team.<br><br>
         - Number of set = 3 consisting 25 points each.<br><br>
         - No rotation ( fixed position play )<br><br>
@@ -312,7 +313,6 @@ eventdata=[
         For any queries/registration, contact:<br>
         Gaurav -9039138343
         Lalit      - 9610334365`,
-      rules:"TBA",
       prizes:"TBA",
       code:"vllyballb",
       link:'./register.html?q=vllyballb'
@@ -320,10 +320,11 @@ eventdata=[
     {
       image:"./assets/Events/vllyballg.png",
       venue:"JIIT 128",
-      title:"Volleyball girls",
-      time:"9:00:00 AM",
-      date:"31-01-20",
-      description:`Maximum number of players = 12 in a team.<br><br>
+      title:"Volleyball boys and girls",
+      time:"TBA",
+      date:"TBA",
+      description:'',
+      rules:`Maximum number of players = 12 in a team.<br><br>
         - Minimum number of players = 6 in a team.<br><br>
         - Number of set = 3 consisting 25 points each.<br><br>
         - No rotation ( fixed position play )<br><br>
@@ -333,7 +334,6 @@ eventdata=[
         For any queries/registration, contact:<br>
         Gaurav -9039138343
         Lalit      - 9610334365`,
-      rules:"TBA",
       prizes:"TBA",
       code:"vllyballg",
       link:'./register.html?q=vllyballg'
@@ -342,16 +342,16 @@ eventdata=[
       image:"./assets/Events/football.png",
       venue:"JIIT 128",
       title:"Football",
-      time:"9:00:00 AM",
-      date:"31-01-20",
-      description:`Age limit:24<br>
+      time:"TBA",
+      date:"TBA",
+      description:'',
+      rules:`Age limit:24<br>
          Maximum 10 players in a team.<br>
          7 on the field (including Goalkeeper) + 3 rolling substitutes.<br>
         ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK <br>
         For any queries/registration, contact:<br>
         Uttkarsh - 9889462587<br>
         Prakhanshu - 8726838994`,
-      rules:"TBA",
       prizes:"TBA",
       code:"football",
       link:'./register.html?q=football'
@@ -360,15 +360,15 @@ eventdata=[
       image:"./assets/Events/tt.png",
       venue:"JIIT 128",
       title:"Table tennis",
-      time:"9:00:00 AM",
-      date:"31-01-20",
-      description:`Minimum 3 players and Maximum 4 players in a team <br>
+      time:"TBA",
+      date:"TBA",
+      description:'',
+      rules:`Minimum 3 players and Maximum 4 players in a team <br>
           -All matches will be of 5 min 3 rounds (Best of 2)<br>
           -Al the players should be of same college<br>
           ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK.<br>
           For any queries/registration, contact:<br>
           Shivam: 9896628306`,
-      rules:"TBA",
       prizes:"TBA",
       code:"tt",
       link:'./register.html?q=tt'
@@ -377,9 +377,10 @@ eventdata=[
       image:"./assets/Events/crckt.png",
       venue:"JIIT 128",
       title:"Cricket",
-      time:"9:00:00 AM",
-      date:"31-01-20",
-      description:`Maximum number of players = 15 in a team.<br>
+      time:"TBA",
+      date:"TBA",
+      description:'',
+      rules:`Maximum number of players = 15 in a team.<br>
           Minimum number of players = 9 in a team.<br>
            Number of overs per side=8<br>
            Final match =10 over per side<br>
@@ -387,7 +388,6 @@ eventdata=[
           For any queries/registration, contact:<br>
           Toyesh:8744947030<br>
           Pranjal:7007010230`,
-      rules:"TBA",
       prizes:"TBA",
       code:"crckt",
       link:'./register.html?q=crckt'
