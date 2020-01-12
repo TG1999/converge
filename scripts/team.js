@@ -72,6 +72,12 @@ let teamData =
   'Facebook': '',
   'Linkedin': 'https://www.linkedin.com/in/samarth-sharma-8611b6181'
   },
+ {'Name':'Chetan Bansal',
+  'Image':'./assets/team/IMG-20200109-WA0011 - Chetan Bansal.jpg',
+  'Position':'Sports Head',
+  'Facebook':'',
+  'Linkedin':''},
+ 
   {'Name': 'HARSH VARSHNEY',
   'Image': './assets/team/9.jpg',
   'Position': 'Photography Head',
@@ -147,12 +153,20 @@ let teamData =
   'Position': 'CICR Head',
   'Facebook': 'https://www.facebook.com/shubham.shahi.102',
   'Linkedin': 'https://www.linkedin.com/in/shubham-s-200146111/'},
-  {'Name': 'Vipul kumar',
+
+{'Name': 'Vipul kumar',
   'Image': './assets/team/4.jpg',
   'Position': 'Chief editor',
   'Facebook': 'https://www.facebook.com/vipulsatyendra',
-  'Linkedin': 'https://www.linkedin.com/in/vipul-satyendra-b95747151'}]
+  'Linkedin': 'https://www.linkedin.com/in/vipul-satyendra-b95747151'},
 
+{'Name': 'Bhartendu Dubey',
+  'Image': './assets/team/32.jpg',
+  'Position': 'Quizzing Head',
+  'Facebook': '',
+  'Linkedin': ''}  ,
+ 
+ ]
 
 teamDiv = document.getElementsByClassName("teamImageDiv")[0]
 

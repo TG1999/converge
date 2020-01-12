@@ -5,9 +5,9 @@ eventdata=[
         venue:"JIIT 128",
         title:"GROOVE",
         date:"01-02-2020",
-        time:"1:04:00 PM",
+        time:"12:30:00 PM",
         description:"The job of feet is walking, but it's hobby is dancing!<br>So be in your highest spirits as VamUnique- The western dance society of Jaypee Institute of Information Technology is all agog to present to you -GROOVE, Western Group Dance Competition.<br> The event is going to be held during CONVERGE 2020.",
-        rules:"The maximum team limit for the competition is of 20 members.<br>There will be an on the spot registration fee for the event.<br>The competition consists of two rounds:- The video preliminary round and the final round.<br>Kindly adhere to the following rules:<br>Preliminary Round<br>1. Register with the link to your performance video latest by 22 January 2020. Any last minute requests would not be entertained.<br>2. The video should be a showcase of 2019 or 2020.<br>3. The video should not be longer than 8 minutes.<br>Final Round<br>1. On stage limit is of 5-15 members.<br>2. The time limit of the performance is 6-10 mins plus 1 minute for stage setup and marking.<br>3. Teams need to bring their track in pendrives.<br>Rest of the rules will be acquainted with the selected teams.<br>The results of the preliminary round will be announced on 24 January 2020<br>For more information, contact<br>Pranav Mangla (Head) : 9582552722<br>Radhika Berry: 8447121378",
+        rules:"The maximum team limit for the competition is of 25 members.<br>There will be an on the spot registration fee for the event.<br>The competition consists of two rounds:- The video preliminary round and the final round.<br>Kindly adhere to the following rules:<br>Preliminary Round<br>1. Register with the link to your performance video latest by 22 January 2020. Any last minute requests would not be entertained.<br>2. The video should be a showcase of 2019 or 2020.<br>3. The video should not be longer than 8 minutes.<br>Final Round<br>1. On stage limit is of 5-15 members.<br>2. The time limit of the performance is 6-10 mins plus 1 minute for stage setup and marking.<br>3. Teams need to bring their track in pendrives.<br>Rest of the rules will be acquainted with the selected teams.<br>The results of the preliminary round will be announced on 24 January 2020<br>For more information, contact<br>Pranav Mangla (Head) : 9582552722<br>Radhika Berry: 8447121378",
         prizes:"TBA",
         code:'groove',
         link:'./register.html?q=groove'
@@ -100,8 +100,8 @@ eventdata=[
         image:"./assets/Events/poise.png",
         venue:"JIIT 128",
         title:"POISE",
-        date:"TBA",
-        time:"TBA",
+        date:"02-02-2020",
+        time:"02:00:00 PM",
         description:"Hola people!<br>That finnese in your glance is worth a thousand sights.<br>Gear up for one the most anticipated fashion events in the town.<br>Panache - The Fashion Society of Jaypee Institute of Information Technology, Sector-128 presents:- <br>POISE - THE FASHION SHOW EVENT at their annual cultural fest Converge'20. All you need is love the vogue!",
         rules:"Registration fee: 1000/-<br>Forward your tracks at: goyal.jahanvi@gmail.com<br>Rules & Regulations :<br>1. One entry per college<br>2. 12-15 members per team are allowed including assistants<br>3. Time limit is 12 minutes excluding stage setup time i.e 2 min.<br>4. Negative marking will be done for exceeding time limit.<br>5. Track has to be sent via email while registration (goyal.jahanvi@gmail.com). Make sure you carry it in the pen drive on the day of event.<br>6. Theme selection is totally up to the team.<br>7. Use of props is allowed.<br>8. Vulgarity is strictly prohibited. Any form of obscenity will lead to debarring of the team from the contest.<br>9. Participants are advised to take care of the authenticity of their work. Plagiarism will not be tolerated.<br>10. Use of hazardous objects is not allowed.<br>11. The criterion for judgement are:<br>◆Theme<br>◆Costumes<br>◆Walk<br>◆Stance<br>◆Attitude<br>12. Decision of the judges will be final and binding.",
         prizes:"TBA",
@@ -112,8 +112,8 @@ eventdata=[
         image:"./assets/Events/mmc.png",
         venue:"JIIT 128",
         title:"MR and MS CONVERGE",
-        date:"TBA",
-        time:"TBA",
+        date:"02-02-2020",
+        time:"10:00:00 AM",
         description:"Confidence doesn't come when you have all the answers, but it comes when you are ready to face all the questions.<br>PANACHE- The fashion society of JIIT-128 presents MR. and MISS CONVERGE'20.<br>So boys and girls gear up yourselves and get your pretty dresses and suits out !!",
         rules:"Rules & Regulations :<br>1. Participants to be from JIIT only.<br>2. Participants can be from any year.<br>3. Mtech students can also take part.<br>4. Only western clothes are allowed.<br>5. There will be 3 judges and 2 rounds (walk + PI).<br>6. Props are allowed.<br>7. Judging criteria will be confidence, dress, walk, question answer ability.",
         prizes:"TBA",
@@ -124,8 +124,8 @@ eventdata=[
         image:"./assets/Events/adsmd.jpg",
         venue:"JIIT 128",
         title:"Adi Shankaracharya Memorial Debate",
-        date:"01-02-20",
-        time:"TBA",
+        date:"02-02-20",
+        time:"10:30:00 AM",
         description:"Battle of words to show how can you convince audience and your opposition.",
         rules:"TBA",
         prizes:"TBA",
@@ -209,6 +209,411 @@ eventdata=[
         prizes:"TBA",
         code:"marathon",
         link:'./register.html?q=marathon'
+    },
+    {
+        image:"./assets/Events/algoflux.jpeg",
+        venue:"JIIT 128",
+        title:"Algoflux",
+        date:"1-2-2020",
+        time:"9:30 AM",
+        description:`Programming contest based on ICPC theme
+          `,
+        rules:`
+        Algoflux is a flagship event of RPH, an inter-college competitive programming contest based on ICPC theme, a team event designed to challenge coders with different problems.<br><br>
+        Team Size:1-3<br>
+        Registration form:<br>
+        Date : 1st February,20<br>
+        Timings : 9:30 Onwards (Duration 5Hrs)<br>
+        Venue : CL2 , JIIT128<br>
+        Registration Fees: Rs.100<br>
+        The amount can be sent to 9971865695 through GPay/Paytm and mention Team name in comment.
+        `,
+        prizes:"TBA",
+        code:"algoflux",
+        link:'./register.html?q=algoflux'
+    },
+    {
+      image:"./assets/Events/codft.jpg",
+      venue:"JIIT 128",
+      title:"CodeFight",
+      time:"9:30 AM",
+      date:"2-2-2020",
+      description:`The one who solves first wins the battle
+        `,
+      rules:`
+      CodeFight an amazing opportunity to knock off your competitors, in a one-on-one code battle, the one who solves first wins the battle.<br><br><br>
+      Date : 2nd February,20<br>
+      Timings : 9:30 Onwards <br>
+      Venue : CL2 , JIIT128
+      `,
+      prizes:"TBA",
+      code:"codft",
+      link:'./register.html?q=codft'
+    },
+    {
+      image:"./assets/Events/rpdfire.png",
+      venue:"JIIT 128",
+      title:"RapidFire",
+      time:"2-4pm",
+      date:"2-2-2020",
+      description:`Battle based on algorithms and data structures`,
+      rules:`RapidFire, the ultimate battle of best programmers, an individual programming event based on algorithms and data structures. Get ready to join the battle to be ultimate programming champion.<br><br>
+      Date:2nd February,20<br>
+      Timing: 2-4pm<br>
+      Venue:Cl2, JIIT 128
+      `,
+      prizes:"TBA",
+      code:"rpdfire",
+      link:'./register.html?q=rpdfire'
+    },
+    {
+      image:"./assets/Events/bdmntnboys.png",
+      venue:"JIIT 128",
+      title:"Badminton boys",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Badminton match for boys<br>
+        For any queries/registration, contact:<br>
+        Chetan - 9891691770<br>
+        Kartikeya - 9140478390`,
+      rules:`Minimum 4 players in a team maximum 5 players<br>
+        All matches will be of 21 points (Best of 3)<br>
+        All the players should be of same college.<br>
+        ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
+      `,
+      prizes:"TBA",
+      code:"bdmntnboys",
+      link:'./register.html?q=bdmntnboys'
+    },
+    {
+      image:"./assets/Events/bdmntngirls.png",
+      venue:"JIIT 128",
+      title:"Badminton girls",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Badminton match for girls<br>
+        For any queries/registration, contact:<br>
+        Chetan - 9891691770<br>
+        Kartikeya - 9140478390`,
+      rules:`Minimum 2 players in a team maximum 3 players<br>
+        All matches will be of 21 points (Best of 3)<br>
+        All the players should be of same college.<br>
+        ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK <br>
+      `,
+      prizes:"TBA",
+      code:"bdmntngirls",
+      link:'./register.html?q=bdmntngirls'
+    },
+    {
+      image:"./assets/Events/vllyballb.png",
+      venue:"JIIT 128",
+      title:"Volleyball boys",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Volleyball match for boys<br>
+        For any queries/registration, contact:<br>
+        Gaurav -9039138343
+        Lalit      - 9610334365`,
+      rules:`Maximum number of players = 12 in a team.<br><br>
+        - Minimum number of players = 6 in a team.<br><br>
+        - Number of set = 3 consisting 25 points each.<br><br>
+        - No rotation ( fixed position play )<br><br>
+        - The Referee's decision shall be final.<br><br>
+        - For everything else, standard volleyball rules apply.<br><br>
+        - The teams are required to report at least 30 min before given time.<br>
+      `,
+      prizes:"TBA",
+      code:"vllyballb",
+      link:'./register.html?q=vllyballb'
+    },
+    {
+      image:"./assets/Events/vllyballg.png",
+      venue:"JIIT 128",
+      title:"Volleyball girls",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Volleyball match for girls
+        For any queries/registration, contact:<br>
+        Gaurav -9039138343
+        Lalit      - 9610334365`,
+      rules:`Maximum number of players = 12 in a team.<br><br>
+        - Minimum number of players = 6 in a team.<br><br>
+        - Number of set = 3 consisting 25 points each.<br><br>
+        - No rotation ( fixed position play )<br><br>
+        - The Referee's decision shall be final.<br><br>
+        - For everything else, standard volleyball rules apply.<br><br>
+        - The teams are required to report at least 30 min before given time.<br>
+      `,
+      prizes:"TBA",
+      code:"vllyballg",
+      link:'./register.html?q=vllyballg'
+    },
+    {
+      image:"./assets/Events/football.png",
+      venue:"JIIT 128",
+      title:"Football",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Football match<br>
+        For any queries/registration, contact:<br>
+        Uttkarsh - 9889462587<br>
+        Prakhanshu - 8726838994`,
+      rules:`
+        Age limit:24<br>
+         Maximum 10 players in a team.<br>
+         7 on the field (including Goalkeeper) + 3 rolling substitutes.<br>
+        ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK <br>
+      `,
+      prizes:"TBA",
+      code:"football",
+      link:'./register.html?q=football'
+    },
+    {
+      image:"./assets/Events/tt.png",
+      venue:"JIIT 128",
+      title:"Table tennis",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Table tennis match<br>
+          For any queries/registration, contact:<br>
+          Shivam: 9896628306`,
+      rules:`
+          Minimum 3 players and Maximum 4 players in a team <br>
+          -All matches will be of 11 points (Best of 3)<br>
+          -Al the players should be of same college<br>
+          ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK.<br>
+      `,
+      prizes:"TBA",
+      code:"tt",
+      link:'./register.html?q=tt'
+    },
+    {
+      image:"./assets/Events/crckt.png",
+      venue:"JIIT 128",
+      title:"Cricket",
+      time:"8:00:00 AM",
+      date:"29-01-20",
+      description:`Cricket match<br>
+          For any queries/registration, contact:<br>
+          Toyesh:8744947030<br>
+          Pranjal:7007010230`,
+      rules:`
+          Maximum number of players = 15 in a team.<br>
+          Minimum number of players = 9 in a team.<br>
+           Number of overs per side=8<br>
+           Final match =10 over per side<br>
+           Match format- ICC T-20<br>
+            The match will be played by Vicky ball<br>
+      `,
+      prizes:"TBA",
+      code:"crckt",
+      link:'./register.html?q=crckt'
+    },
+    
+    {
+      image:"./assets/Events/bbb.jpg",
+      venue:"JIIT 128",
+      title:"Basketball Boys",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Basketball Match<br>
+          For any queries/registration, contact:<br>
+          Amogh: 9140949178<br>
+`,
+      rules:`
+          Maximum 12 players in a team.<br>
+Rules are according to FIBA.<br>
+The Referee's decision will be final.<br>`,
+      prizes:"TBA",
+      code:"bbb",
+      link:'./register.html?q=bbb'
+    },
+    
+    {
+      image:"./assets/Events/bbg.png",
+      venue:"JIIT 128",
+      title:"Basketball Girls",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Basketball Match<br>
+          For any queries/registration, contact:<br>
+Vrinda - 8287132273`,
+      rules:`
+          Maximum 12 players in a team.<br>
+Rules are according to FIBA.<br>
+The Referee's decision will be final.<br>`,
+      prizes:"TBA",
+      code:"bbg",
+      link:'./register.html?q=bbg'
+    },
+    
+    {
+      image:"./assets/Events/chess.jpg",
+      venue:"JIIT 128",
+      title:"Chess",
+      time:"8:00:00 AM",
+      date:"31-01-20",
+      description:`Chess<br>
+          For any queries/registration, contact:<br>
+Nayan:7557411076`,
+      rules:`
+          Minimum 3 players and Maximum 4 players<br>
+All matches will be of 5|3 min 3 rounds (Best of 2)<br>
+ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
+-Refree's decision will be final<br>`,
+      prizes:"TBA",
+      code:"chess",
+      link:'./register.html?q=chess'
+    },
+{
+      image:"./assets/Events/rlms.jpg",
+      venue:"JIIT 128",
+      title:"7 Realms",
+      time:"11:13:00 AM",
+      date:"01-02-20",
+      description:`An authentic card game`,
+      rules:`
+      An authentic card game under the 'minute to win it' category specially to check the presence of mind of participants... Patience is the key to win it...<br>
+        Team Size - 1 member<br>
+        Time constraint- 1min <br>
+        Date - 1st Feb"
+      `,
+      prizes:"TBA",
+      code:"rlms",
+      link:'./register.html?q=rlms'
+    },
+    {
+      image:"./assets/Events/leanon.jpg",
+      venue:"JIIT 128",
+      title:"Lean On",
+      time:"11:01:00 AM",
+      date:"02-02-20",
+      description:`Buckle up for this game`,
+      rules:`
+      Do you have someone to rely on..if yes then buckle up for this game. Here you have to work your asses out but definitely gonna experience some ultimate fun...<br>
+        Team Size- 2 members<br>
+        Time Constraint-1 minutes 30 seconds<br>
+        Date- 2nd Feb 2020
+      `,
+      prizes:"TBA",
+      code:"leanon",
+      link:'./register.html?q=leanon'
+    },
+    {
+      image:"./assets/Events/bubble.jpg",
+      venue:"JIIT 128",
+      title:"BUBBLE RACE",
+      time:"2:00:00 PM",
+      date:"02-02-20",
+      description:`Let's shoot some hoops,<br>
+      Through the loops,<br>
+      Make it count,<br>
+      Who can make it through, <br><br>
+      This is a fun 2-member event in which you would get paired up to perform some entertaining tasks which would lead you to win exciting prizes.`,
+      rules:`
+      Rules :<br>
+      a. Team Size : 2 Members<br>
+      b. Time Constraint : 2 Minutes<br>
+      c. Individual entries will be paired randomly<br>
+      d. Any form of discrepancy will lead to disqualification.
+      `,
+      prizes:"TBA",
+      code:"bubble",
+      link:'./register.html?q=bubble'
+    },
+    {
+      image:"./assets/Events/shoot.jpg",
+      venue:"JIIT 128",
+      title:"SHOOT OUT IN JIIT",
+      time:"2:00:00 PM",
+      date:"01-02-20",
+      description:`""a battle fought with handguns"",<br>
+      game is faught between two teams <br>
+      a competition that is used to decide the winner <br>
+      at the end by giving each team a <br>
+      particular number of chances to shoot the ball into the items.<br>`,
+      rules:`
+      RULES:<br>
+      a. Team Size : 1<br>
+      b. Time Constraint :  1 Minutes<br>
+      c. Any form of discrepancy will lead to disqualification.      `,
+      prizes:"TBA",
+      code:"shoot",
+      link:'./register.html?q=shoot'
+    },
+    {
+      image:"./assets/Events/flipr.jpg",
+      venue:"JIIT 128",
+      title:"Flipping and Racing",
+      time:"11:00:00 AM",
+      date:"01-02-20",
+      description:`
+        ""If you run your race, you'll win... channel your energy.""<br>
+         Flip as many bottles as u can in a minute as a team or individual.<br>
+         More you score..More chances of winning the exciting prices.<br>`,
+      rules:`
+      RULES:<br><br>
+      a. Team Size :2<br>
+      b. Time Constraint : 1 Minutes<br>
+      c. Individual entries will be allowed.<br>
+      d. Any form of discrepancy will lead to disqualification."
+      `,
+      prizes:"TBA",
+      code:"flipr",
+      link:'./register.html?q=flipr'
+    },
+    {
+      image:"./assets/Events/trsrhnt.jpg",
+      venue:"JIIT 128",
+      title:"TREASURE HUNT",
+      time:"2:00:00 PM",
+      date:"01-02-20",
+      description:`Hey guys!! Pull up your socks and buck up yourselves as we are back with the most awaited event of the year. It’s time to use your sherlock brains and team up to solve the mystery because this time the hunt is bigger and better than ever. So, follow the clues, work as a team, take turns, build memories and Have fun!!`,
+      rules:`
+      Rules :<br>
+      Team Size : 3 Members<br>
+      Time Constraint : 10 Minutes<br>
+      Individual entries will be paired randomly<br>
+      Any form of discrepancy will lead to disqualification."
+      `,
+      prizes:"TBA",
+      code:"trsrhnt",
+      link:'./register.html?q=trsrhnt'
+    },
+    {
+      image:"./assets/Events/bbs.jpg",
+      venue:"JIIT 128",
+      title:"BEG BORROW SNAP",
+      time:"2:00:00 PM",
+      date:"02-02-20",
+      description:`Howdy Buddies!! This is the time to test your image Warm your hands with the most electrifying event,BEG BORROW SNAP has ability to boost up your adrenaline.keep calm and have pateince!! Memories are mystery may you find it here`,
+      rules:`
+      Rules :<br>
+      Team Size : 2 Members<br>
+      Time Constraint : 2 Minutes<br>
+      Individual entries will be paired randomly<br>
+      Any form of discrepancy will lead to disqualification"
+      `,
+      prizes:"TBA",
+      code:"bbs",
+      link:'./register.html?q=bbs'
+    },
+    {
+      image:"./assets/Events/bheja.jpg",
+      venue:"JIIT 128",
+      title:"Bheja fry",
+      time:"11:00:00 AM",
+      date:"02-02-20",
+      description:`Hola guys!! Its time to saddle up, dust off your cowboy hat, and fasten up your boots because it's a fun named BHEJA FRY that will lead to full emusement and gratification. Surely you all are going to discover and celebrate your true new colors.`,
+      rules:`
+      Rules :<br><br>
+      Team Size : 1 Members<br>
+      Individual entries will be paired randomly<br>
+      Any form of discrepancy will lead to disqualification"
+      `,
+      prizes:"TBA",
+      code:"bheja",
+      link:'./register.html?q=bheja'
     }
 ];
 for (event in eventdata) {

@@ -77,15 +77,84 @@ let cultureData =
 
 ]
 
-let techData = [{
+let techData = [
+  {
     title: "INQUIZZITIVE",
     brief_description: "Quiz",
     link: "./event.html?eventname=inquizzitive",
     image: "./assets/Events/inquizitive.png"
+  },
+  {
+    title: "Algoflux",
+    brief_description: "Programming contest based on ICPC theme",
+    link: "./event.html?eventname=algoflux",
+    image: "./assets/Events/algoflux.jpeg"
+  },
+  {
+    title: "CodeFight",
+    brief_description: "The one who solves first wins the battle",
+    link: "./event.html?eventname=codft",
+    image: "./assets/Events/codft.jpg"
+  },
+  {
+    title: "RapidFire",
+    brief_description: "Battle based on algorithms and data structures",
+    link: "./event.html?eventname=rpdfire",
+    image: "./assets/Events/rpdfire.png"
   }
-               ]
+]
 
-let informalarray=[]
+let informalarray=[
+  {
+    title: "7 Realms",
+    brief_description: "An authentic card game",
+    link: "./event.html?eventname=rlms",
+    image: "./assets/Events/rlms.jpg"
+  },
+  {
+    title: "Lean On",
+    brief_description: "Buckle up for this game.",
+    link: "./event.html?eventname=leanon",
+    image: "./assets/Events/leanon.jpg"
+  },
+  {
+    title: "BUBBLE RACE",
+    brief_description: "Let's shoot some hoops",
+    link: "./event.html?eventname=bubble",
+    image: "./assets/Events/bubble.jpg"
+  },
+  {
+    title: "SHOOT OUT IN JIIT",
+    brief_description: "A battle fought with handguns",
+    link: "./event.html?eventname=shoot",
+    image: "./assets/Events/shoot.jpg"
+  },
+  {
+    title: "Flipping and Racing",
+    brief_description: "You have to score point by passing several checkpoint",
+    link: "./event.html?eventname=flipr",
+    image: "./assets/Events/flipr.jpg"
+  },
+  {
+    title: "TREASURE HUNT",
+    brief_description: "Follow the clues, work as a team, take turns, build memories",
+    link: "./event.html?eventname=trsrhnt",
+    image: "./assets/Events/trsrhnt.jpg"
+  },
+  {
+    title: "BEG BORROW SNAP",
+    brief_description: "Memories are mystery may you find it here",
+    link: "./event.html?eventname=bbs",
+    image: "./assets/Events/bbs.jpg"
+  },
+  {
+    title: "Bheja fry",
+    brief_description: "Celebrate your true new colors",
+    link: "./event.html?eventname=bheja",
+    image: "./assets/Events/bheja.jpg"
+  },
+];
+
 
 let literaryarray=[
   {
@@ -102,7 +171,70 @@ let literaryarray=[
   }
 ];
 
-let sportsarray=[]
+let sportsarray=[
+  {
+    title: "Badminton Boys",
+    brief_description: '',
+    link: "./event.html?eventname=bdmntnboys",
+    image: "./assets/Events/bdmntnboys.png"
+  },
+  {
+    title: "Badminton Girls",
+    brief_description: '',
+    link: "./event.html?eventname=bdmntngirls",
+    image: "./assets/Events/bdmntngirls.png"
+  },
+  {
+    title: "Volleyball Boys",
+    brief_description: '',
+    link: "./event.html?eventname=vllyballb",
+    image: "./assets/Events/vllyballb.png"
+  },
+  {
+    title: "Volleyball Girls",
+    brief_description: '',
+    link: "./event.html?eventname=vllyballg",
+    image: "./assets/Events/vllyballg.png"
+  },
+  {
+    title: "Football",
+    brief_description: '',
+    link: "./event.html?eventname=football",
+    image: "./assets/Events/football.png"
+  },
+  {
+    title: "Table Tennis",
+    brief_description: '',
+    link: "./event.html?eventname=tt",
+    image: "./assets/Events/tt.png"
+  },
+  {
+    title: "Cricket",
+    brief_description: '',
+    link: "./event.html?eventname=crckt",
+    image: "./assets/Events/crckt.png"
+  },
+  {
+    title: "Basketball Boys",
+    brief_description: '',
+    link: "./event.html?eventname=bbb",
+    image: "./assets/Events/bbb.jpg"
+  },
+  
+  {
+    title: "Basketball Girls",
+    brief_description: '',
+    link: "./event.html?eventname=bbg",
+    image: "./assets/Events/bbg.png"
+  },
+  
+  {
+    title: "Chess",
+    brief_description: '',
+    link: "./event.html?eventname=chess",
+    image: "./assets/Events/chess.jpg"
+  },
+];
 
 // Funtion to inject array to page
 const InjectArray = (data,title) => {

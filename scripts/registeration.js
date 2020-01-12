@@ -1,5 +1,5 @@
 let eventName = window.location.search.split("=")[1]
-
+console.log('chane');
 let formData =
 
 [ {'code': "groove",
@@ -157,8 +157,215 @@ let formData =
         'Email id': 'email',
         'Previous participations in marathon (yes/no)': 'text',
       }
-  }
-  ]
+  },
+  {
+    'code': "bdmntnboys",
+      'formFields': {
+        'College name': 'text',
+          'Team Captain Name': 'text',
+        'Contact no': 'text',
+          'Email ID': 'email',
+        'No. of Players': 'text',
+        'Accommodation required or not': 'text',
+      }
+  },
+  {
+    'code': "bdmntngirls",
+      'formFields': {
+        'College name': 'text',
+          'Team Captain Name': 'text',
+        'Contact no': 'text',
+          'Email ID': 'email',
+        'No. of Players': 'text',
+        'Accommodation required or not': 'text',
+      }
+  },
+  {
+    'code': "vllyballb",
+      'formFields': {
+        'College name': 'text',
+        'Team Captain Name': 'text',
+        'Contact no': 'text',
+          'Email ID': 'email',
+        'No. of Players': 'text',
+        'Accommodation required or not': 'text',
+      }
+  },
+  {
+    'code': "vllyballg",
+      'formFields': {
+        'College name': 'text',
+        'Team Captain Name': 'text',
+        'Contact no': 'text',
+          'Email ID': 'email',
+        'No. of Players': 'text',
+        'Accommodation required or not': 'text',
+      }
+  },
+  {
+    'code': "football",
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+        'Email ID': 'email',
+      'No. of Players': 'text',
+      'Accommodation required or not': 'text',
+    }
+  },
+  {
+    'code': "tt",
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+        'Email ID': 'email',
+      'No. of Players': 'text',
+      'Accommodation required or not': 'text',
+    }
+  },
+  {
+    'code': "crckt",
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+        'Email ID': 'email',
+      'No. of Players': 'text',
+      'Accommodation required or not': 'text',
+    }
+  },
+ {
+    'code': "bbb",
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+        'Email ID': 'email',
+      'No. of Players': 'text',
+      'Accommodation required or not': 'text',
+    }
+  },
+ {
+    'code': "bbg",
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+        'Email ID': 'email',
+      'No. of Players': 'text',
+      'Accommodation required or not': 'text',
+    }
+  },
+ {
+    'code': "chess",
+    'formFields': {
+      'College name': 'text',
+      'Team Captain Name': 'text',
+      'Contact no': 'text',
+        'Email ID': 'email',
+      'No. of Players': 'text',
+      'Accommodation required or not': 'text',
+    }
+  },
+  {
+    'code': "algoflux",
+      'formFields': {
+        'Name': 'text',
+        'email': 'email',
+        'Phone no': 'text',
+        'College name': 'text',
+        'year': 'text',
+      }
+  },
+  {
+    'code': "codft",
+      'formFields': {
+        'Name': 'text',
+        'College name': 'text',
+        'email': 'email',
+        'year': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "rpdfire",
+      'formFields': {
+        'Name': 'text',
+        'email': 'email',
+        'Phone no': 'text',
+        'College name': 'text',
+        'year': 'text',
+      }
+  },
+{
+    'code': "rlms",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "leanon",
+      'formFields': {
+        'Name (first member)': 'text',
+        'Enrollment number (first member)': 'text',
+        'Phone no (first member)': 'text',
+        'Name (second member)': 'text',
+        'Enrollment number (second member)': 'text',
+        'Phone no (second member)': 'text',
+      }
+  },
+  {
+    'code': "bubble",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "shoot",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "flipr",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "trsrhnt",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "bbs",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+  {
+    'code': "bheja",
+      'formFields': {
+        'Name': 'text',
+        'Enrollment number': 'text',
+        'Phone no': 'text',
+      }
+  },
+];
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
 
 const formFieldsHtml = (eventName) => {
