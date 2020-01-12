@@ -6,6 +6,12 @@ const closeSlideMenu = () => {
   document.getElementById("side-menu").style.width = "0";
 };
 
+// Hide loader
+const showSide = () => {
+  document.getElementsByClassName('loader-wrapper')[0].style.display="none"
+  document.getElementsByClassName('body-wrapper')[0].style.display="block"
+}
+$('document').ready(showSide)
 
 // scroll keeper
 
