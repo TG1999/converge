@@ -52,10 +52,10 @@ eventdata=[
         image:"./assets/Events/advaya.png",
         venue:"JIIT 128",
         title:"ADVAYA",
-        date:"TBA",
+        date:"01-02-2020 and 02-02-2020",
         time:"TBA",
         description:"Solo Folk/Classical Dance Competition",
-        rules:"TBA",
+        rules:"RULES AND GUIDLINES:<br>1. This is a solo Folk/Classical dance competition<br>2. Regestration Fees: Rs 100<br>3. The event will consist of a prelimnary online round and 2 campus rounds. Winners will be decided on the basis of both the campus rounds.<br>*Only regestered participants will be allowed to participate(Last date for regestration is 28th Jan 2020)* ",
         prizes:"TBA",
         code:"advaya",
         link:'./register.html?q=advaya'
@@ -64,10 +64,10 @@ eventdata=[
         image:"./assets/Events/sabrang.png",
         venue:"JIIT 128",
         title:"SABRANG",
-        date:"TBA",
+        date:"01-02-2020 and 02-02-2020",
         time:"TBA",
         description:"Group Folk Dance Competition",
-        rules:"TBA",
+        rules:"RULES AND GUIDLINES:<br>1. This is a folk dance competition<br>2. Regestration fees is Rs 500<br>3. Team Size should be arround: 6-20 persons<br>4. Last date for submission of entries is 28th Jan 2020.<br>5. Sound track for campus round should be mailed to us till 30th Jan. ",
         prizes:"TBA",
         code:"sabrang",
         link:'./register.html?q=sabrang'
@@ -103,7 +103,7 @@ eventdata=[
         date:"02-02-2020",
         time:"02:00:00 PM",
         description:"Hola people!<br>That finnese in your glance is worth a thousand sights.<br>Gear up for one the most anticipated fashion events in the town.<br>Panache - The Fashion Society of Jaypee Institute of Information Technology, Sector-128 presents:- <br>POISE - THE FASHION SHOW EVENT at their annual cultural fest Converge'20. All you need is love the vogue!",
-        rules:"Registration fee: 1000/-<br>Forward your tracks at: goyal.jahanvi@gmail.com<br>Rules & Regulations :<br>1. One entry per college<br>2. 12-15 members per team are allowed including assistants<br>3. Time limit is 12 minutes excluding stage setup time i.e 2 min.<br>4. Negative marking will be done for exceeding time limit.<br>5. Track has to be sent via email while registration (goyal.jahanvi@gmail.com). Make sure you carry it in the pen drive on the day of event.<br>6. Theme selection is totally up to the team.<br>7. Use of props is allowed.<br>8. Vulgarity is strictly prohibited. Any form of obscenity will lead to debarring of the team from the contest.<br>9. Participants are advised to take care of the authenticity of their work. Plagiarism will not be tolerated.<br>10. Use of hazardous objects is not allowed.<br>11. The criterion for judgement are:<br>◆Theme<br>◆Costumes<br>◆Walk<br>◆Stance<br>◆Attitude<br>12. Decision of the judges will be final and binding.",
+        rules:"Registration fee: 1500/-<br>Forward your tracks at: goyal.jahanvi@gmail.com<br>Rules & Regulations :<br>1. One entry per college<br>2. 12-15 members per team are allowed including assistants<br>3. Time limit is 12 minutes excluding stage setup time i.e 2 min.<br>4. Negative marking will be done for exceeding time limit.<br>5. Track has to be sent via email while registration (goyal.jahanvi@gmail.com). Make sure you carry it in the pen drive on the day of event.<br>6. Theme selection is totally up to the team.<br>7. Use of props is allowed.<br>8. Vulgarity is strictly prohibited. Any form of obscenity will lead to debarring of the team from the contest.<br>9. Participants are advised to take care of the authenticity of their work. Plagiarism will not be tolerated.<br>10. Use of hazardous objects is not allowed.<br>11. The criterion for judgement are:<br>◆Theme<br>◆Costumes<br>◆Walk<br>◆Stance<br>◆Attitude<br>12. Decision of the judges will be final and binding.",
         prizes:"TBA",
         code:"poise",
         link:'./register.html?q=poise'
@@ -409,7 +409,7 @@ eventdata=[
       code:"crckt",
       link:'./register.html?q=crckt'
     },
-    
+
     {
       image:"./assets/Events/bbb.jpg",
       venue:"JIIT 128",
@@ -428,7 +428,7 @@ The Referee's decision will be final.<br>`,
       code:"bbb",
       link:'./register.html?q=bbb'
     },
-    
+
     {
       image:"./assets/Events/bbg.png",
       venue:"JIIT 128",
@@ -446,7 +446,7 @@ The Referee's decision will be final.<br>`,
       code:"bbg",
       link:'./register.html?q=bbg'
     },
-    
+
     {
       image:"./assets/Events/chess.jpg",
       venue:"JIIT 128",
