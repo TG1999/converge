@@ -67,7 +67,7 @@ eventdata=[
         date:"01-02-2020 and 02-02-2020",
         time:"TBA",
         description:"Group Folk Dance Competition",
-        rules:"<a href='./assets/sabrang_rules.pdf'><button <button>Click to download</button></a>",
+        rules:"<a href='./assets/sabrang_rules.pdf'><button>Click to download</button></a>",
         prizes:"TBA",
         code:"sabrang",
         link:'./register.html?q=sabrang'
