@@ -1,0 +1,16 @@
+.content-wrapper {
+    margin-top: 100px;
+    color:white;
+    text-align: center;
+}
+.content-wrapper > h1 {
+    font-weight: 600;
+}
+.content-wrapper > h3 {
+    margin-top: 180px;
+    font-weight: 300;
+}
+marquee {
+    min-height: 210px;
+
+}
