@@ -2,7 +2,17 @@ let eventName = window.location.search.split("=")[1]
 console.log('chane');
 let formData =
 
-[ {'code': "groove",
+[ {'code': "camb",
+    'formFields': {
+      'Name': 'text',
+      'College name': 'text',
+      'Email address': 'email',
+      'Contact number (WhatsApp) ': 'text',
+      'Why you want to be a part of this': 'text'
+    }
+  },
+
+{'code': "groove",
     'formFields': {
       'Team name': 'text',
       'College name': 'text',
@@ -165,7 +175,7 @@ let formData =
           'Team Captain Name': 'text',
         'Contact no': 'text',
           'Email ID': 'email',
-        'No. of Players': 'text',
+        'No of Players': 'text',
         'Accommodation required or not': 'text',
       }
   },
@@ -176,7 +186,7 @@ let formData =
           'Team Captain Name': 'text',
         'Contact no': 'text',
           'Email ID': 'email',
-        'No. of Players': 'text',
+        'No of Players': 'text',
         'Accommodation required or not': 'text',
       }
   },
@@ -187,7 +197,7 @@ let formData =
         'Team Captain Name': 'text',
         'Contact no': 'text',
           'Email ID': 'email',
-        'No. of Players': 'text',
+        'No of Players': 'text',
         'Accommodation required or not': 'text',
       }
   },
@@ -198,7 +208,7 @@ let formData =
         'Team Captain Name': 'text',
         'Contact no': 'text',
           'Email ID': 'email',
-        'No. of Players': 'text',
+        'No of Players': 'text',
         'Accommodation required or not': 'text',
       }
   },
@@ -209,7 +219,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -220,7 +230,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -231,7 +241,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -242,7 +252,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -253,7 +263,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -264,7 +274,7 @@ let formData =
       'Team Captain Name': 'text',
       'Contact no': 'text',
         'Email ID': 'email',
-      'No. of Players': 'text',
+      'No of Players': 'text',
       'Accommodation required or not': 'text',
     }
   },
@@ -365,6 +375,24 @@ let formData =
         'Phone no': 'text',
       }
   },
+  {
+    'code': "roboH",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Team Size': 'number',
+        'Member Details': 'text'
+      }
+  },
+  {
+    'code': "checkM",
+      'formFields': {
+        'Team Name': 'text',
+        'College Name': 'text',
+        'Team Size': 'number',
+        'Member Details': 'text'
+      }
+  }
 ];
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
 
@@ -391,7 +419,10 @@ formFields = formData[i].formFields
    return formFieldsTag
 }
 if(eventName)
- document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML = formHtml + formFieldsHtml(eventName) + `<input type="submit" value="Register"></input>`
+ {document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML = formHtml + formFieldsHtml(eventName) + `<input type="submit" value="Register"></input>`
+ if(eventName==='camb')
+ document.getElementById('hltsheading').innerText='Campus Ambassador'
+}
 else
   window.location = './404.html'
 
