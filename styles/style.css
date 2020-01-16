@@ -11,6 +11,12 @@ body {
   overflow-x: hidden;
   margin: 0;
 }
+marquee{
+  height: 5%;
+  position: absolute;
+  bottom:0;
+  background-color: transparent;
+}
 .events {
   height: 360px;
   background-color: white;
