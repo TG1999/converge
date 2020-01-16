@@ -12,7 +12,7 @@ body {
   margin: 0;
 }
 marquee{
-  height: 5%;
+  height: 15%;
   position: absolute;
   bottom:0;
   background-color: transparent;
