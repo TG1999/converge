@@ -616,7 +616,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       link:'./register.html?q=bheja'
     },
     {
-      image:"./assests/robo.jpg",
+      image:"./assets/robo.jpg",
       venue:"JIIT 128",
       title:"Robo Heist",
       date:"TBA",
@@ -630,7 +630,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       link:'./register.html?q=roboH'
     },
     {
-      image:"./assests/check.jpg",
+      image:"./assets/check.jpg",
       venue:"JIIT 128",
       title:"Check & Mate",
       date:"TBA",
