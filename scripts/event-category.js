@@ -1,7 +1,18 @@
 // Data
 console.log("changed again again");
 let cultureData =
-[
+[{
+    title: "Brush Off",
+    brief_description: "Painting Competition",
+    link: "./event.html?eventname=brshFF",
+    image: "./assets/brsh.jpg"
+  },
+  {
+    title: "2 Shades",
+    brief_description: "Shading Competition",
+    link: "./event.html?eventname=shd",
+    image: "./assets/shd.jpg"
+  },
   {
     title: "GROOVE",
     brief_description: "Dance Competition",
@@ -74,6 +85,7 @@ let cultureData =
     link: "./event.html?eventname=crsd",
     image: "./assets/Events/crsd.jpg"
   },
+  
 ]
 
 let techData = [
@@ -103,15 +115,15 @@ let techData = [
   },
   {
     title: "ROBO HEIST",
-    brief_description: "ROBOT MAKING CONTEST",
+    brief_description: "ROBOT RACE",
     link: "./event.html?eventname=roboH",
     image: "./assets/robo.jpg"
   },
   {
     title: "Check & Mate",
-    brief_description: "ROBIT TESTING EVENT",
+    brief_description: "LINE FOLLOWER EVENT",
     link: "./event.html?eventname=checkM",
-    image: "./assets/check.jpg"
+    image: "./assets/maxresdefault.jpg"
   }
 ]
 
@@ -164,6 +176,12 @@ let informalarray=[
     link: "./event.html?eventname=bheja",
     image: "./assets/Events/bheja.jpg"
   },
+  {
+    title: "IPL Auctions",
+    brief_description: "Auction Event",
+    link: "./event.html?eventname=ipl",
+    image: "./assets/Events/ipl.jpg"
+  }
 ];
 
 
@@ -245,6 +263,12 @@ let sportsarray=[
     link: "./event.html?eventname=chess",
     image: "./assets/Events/chess.jpg"
   },
+  {
+    title: "GYM",
+    brief_description: '',
+    link: "./event.html?eventname=gym",
+    image: "./assets/Events/gym.png"
+  }
 ];
 
 // Funtion to inject array to page

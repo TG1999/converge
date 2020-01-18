@@ -52,10 +52,10 @@ eventdata=[
         image:"./assets/Events/advaya.png",
         venue:"JIIT 128",
         title:"ADVAYA",
-        date:"01-02-2020 and 02-02-2020",
+        date:"02-02-2020",
         time:"TBA",
         description:"Solo Folk/Classical Dance Competition",
-        rules:"RULES AND GUIDLINES:<br>1. This is a solo Folk/Classical dance competition<br>2. Regestration Fees: Rs 100<br>3. The event will consist of a prelimnary online round and 2 campus rounds. Winners will be decided on the basis of both the campus rounds.<br>*Only regestered participants will be allowed to participate(Last date for regestration is 28th Jan 2020)* ",
+        rules:"<a href='./assets/advaya_rules.pdf' ><button>Click to download</button></a>",
         prizes:"TBA",
         code:"advaya",
         link:'./register.html?q=advaya'
@@ -64,10 +64,10 @@ eventdata=[
         image:"./assets/Events/sabrang.png",
         venue:"JIIT 128",
         title:"SABRANG",
-        date:"01-02-2020 and 02-02-2020",
+        date:"02-02-2020",
         time:"TBA",
         description:"Group Folk Dance Competition",
-        rules:"RULES AND GUIDLINES:<br>1. This is a folk dance competition<br>2. Regestration fees is Rs 500<br>3. Team Size should be arround: 6-20 persons<br>4. Last date for submission of entries is 28th Jan 2020.<br>5. Sound track for campus round should be mailed to us till 30th Jan. ",
+        rules:"<a href='./assets/sabrang_rules.pdf'><button>Click to download</button></a>",
         prizes:"TBA",
         code:"sabrang",
         link:'./register.html?q=sabrang'
@@ -202,7 +202,7 @@ eventdata=[
         image:"./assets/Events/marathon.jpg",
         venue:"JIIT 128",
         title:"Youth Marathon",
-        date:"31-01-20",
+        date:"1st Feb 2020",
         time:"9:00:00 AM",
         description:"This event's prime purpose is to spread awareness about the rights and education of the girl child. Students participating in this marathon will run across the Jaypee wish town, which is 5km in distance.",
         rules:"TBA",
@@ -469,7 +469,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       image:"./assets/Events/rlms.jpg",
       venue:"JIIT 128",
       title:"7 Realms",
-      time:"11:13:00 AM",
+      time:"11:00:00 AM",
       date:"01-02-20",
       description:`An authentic card game`,
       rules:`
@@ -486,7 +486,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       image:"./assets/Events/leanon.jpg",
       venue:"JIIT 128",
       title:"Lean On",
-      time:"11:01:00 AM",
+      time:"11:00:00 AM",
       date:"02-02-20",
       description:`Buckle up for this game`,
       rules:`
@@ -619,29 +619,127 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       image:"./assets/robo.jpg",
       venue:"JIIT 128",
       title:"Robo Heist",
-      date:"TBA",
-      time:"TBA",
+      date:"1st Feb",
+      time:"10:00 am",
       description:`Your team must build a manually controlled bot which can overcome obstacles and complete the run by earning maximum point in minimum time. The bot can be wired or wireless. In case the participants use a wireless mechanism, they must use a dual frequency remote.`,
       rules:`
       TBA
       `,
-      prizes:"TBA",
+      prizes:"worth 50,000",
       code:"roboH",
       link:'./register.html?q=roboH'
     },
     {
-      image:"./assets/check.jpg",
+      image:"./assets/maxresdefault.jpg",
       venue:"JIIT 128",
       title:"Check & Mate",
-      date:"TBA",
-      time:"TBA",
+      date:"1st Feb",
+      time:"10:00 am",
       description:`Teams have to build an autonomous robot which can follow black lines and keep track of directions while going through the maze. The bot has to analyze the path and has to go through the maze from starting point to ending point through shortest path and minimum time.`,
       rules:`
       TBA
       `,
-      prizes:"TBA",
+      prizes:"worth 50,000",
       code:"checkM",
       link:'./register.html?q=checkM'
+    },
+    {
+      image:"./assets/ipl.jpg",
+      venue:"JIIT 128",
+      title:"IPL Auctions",
+      date:"1st Feb",
+      time:"10:30 am",
+      description:`A mock IPL auction, which gives its participants the thrill of being a part of a *real IPL* auction. You have to make your balanced team. The strongest team, in terms of ratings assigned to the players, wins the event.<br>
+<br>
+*Round 1 (QUIZ)*<br>
+1. There will be a quiz having 25 questions.<br>
+2. The questions will be based majorly on IPL and cricket in general.<br>
+3. There will be some star marked questions which will be having higher priority only in case of ties.<br>
+<br>
+
+*Round 2 (AUCTIONS)*<br>
+1. The player auction would consist 150+ National/International players.<br>
+2. Players would be divided into different categories such as Indian/Overseas Batsman/Bowler, etc.<br>
+3. Each team will be having a fixed budget which they can use for auction.<br>
+4. Each player has a defined rating based on their current performances and record.<br>
+5. Some of the player stats would be provided during the auction.<br>
+<br>
+For any query, contact :7800216690`,
+      rules:`
+      Team size: 1-4 members per team(Indivisual are also allowed)<br>
+      Registration fee:Rs 100/-<br>
+      *ROUND 1 (QUIZ)*<br>
+      1. No use of stats guide or Internet would be allowed during the quiz.<br>
+      2. Discussion between group members is permitted.<br>
+      3.  Top 10 teams will qualify for the next and final round which is the Auctions.<br>
+      <br>
+      
+      NOTE: Players rating will NOT be solely dependent on these stats.<br>
+      The total sum of all the player’s rating would ultimately decide the winner.<br>
+      In case of any dispute, discrepancy organisers decision would be final.<br>
+      `,
+      prizes:"TBA",
+      code:"ipl",
+      link:'./register.html?q=ipl'
+    },
+    {
+      image:"./assets/brsh.jpg",
+      venue:"JIIT 128 OAT",
+      title:"Brush Off",
+      date:"2nd Feb 2020",
+      time:"12:00",
+      description:`
+Painting competition without use of brushes<br>
+Can Contact for further details-7703910438( Paras Agarwal)<br>
+9717226805(Sugandha Pathak)<br>
+`,
+      rules:`
+      Team of max 2<br>
+Theme: will be given on the spot<br>
+Entry fee : 100<br>
+The participants will be given basic colour paints and they can bring their paints with themselves too..<br>
+The participants are not required to use any kind of brushes and need to paint with material apart from brushes<br>
+The event duration will be 4 hrs<br>
+      `,
+      prizes:"TBA",
+      code:"brshFF",
+      link:'./register.html?q=brshFF'
+    },
+    {
+      image:"./assets/shd.jpg",
+      venue:"JIIT 128 Kiosk Room",
+      title:"2 Shades",
+      date:"1st Feb 2020",
+      time:"12:00",
+      description:`
+It is a shading competition with the use of any 2 shades of pencil<br>
+Can Contact for further details-7703910438( Paras Agarwal) <br>
+9717226805(Sugandha Pathak) <br>
+`,
+      rules:`
+Team of max 1<br>
+Theme: will be given on the spot<br>
+Entry fee : 100<br>
+The participants will be given pencils of two shades( 6B+8B). <br>
+The participants can use  other pencils but they should be of two kind only. <br>
+Prize worth-yet to be decided<br>
+The event duration will be 4 hrs<br>
+      `,
+      prizes:"TBA",
+      code:"shd",
+      link:'./register.html?q=shd'
+    },
+    {
+    image:"./assets/Events/gym.png",
+    venue:"JIIT 128",
+    title:"GYM",
+    date:"01-02-2020",
+    time:"10:00 am",
+    description:`*Bench Press*<br>Entry fees-200<br>*Triceps Dips*<br>Entry fees-100<br>Pushups(Only for 1st and 2nd years) :)`,
+    rules:`You know em'`,
+    prizes:`*Bench Press*<br>1st prize -1500<br>2nd prize-1000<br> *Triceps Dips*<br>1st prize-1000<br>Pushups(Boys)-750<br>Pushups(Girls)-750`,
+    code:"gym",
+    link:'./register.html?q=gym'
     }
 ];
 for (event in eventdata) {
