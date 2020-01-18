@@ -1,6 +1,6 @@
 (function(window, document, undefined) {
  var spaceinterval = 1;
- var timeinterval = 5; // `speed`
+ var timeinterval = 10; // `speed`
  var max;
  var firstrun = true;
  // Interval function:
