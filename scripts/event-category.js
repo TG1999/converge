@@ -181,12 +181,6 @@ let informalarray=[
     brief_description: "Auction Event",
     link: "./event.html?eventname=ipl",
     image: "./assets/Events/ipl.jpg"
-  },
-  {
-    title: "PUBG",
-    brief_description: "Gaming Event",
-    link: "./event.html?eventname=pubg",
-    image: "./assets/Events/pubg.png"
   }
 ];
 
