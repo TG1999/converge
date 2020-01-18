@@ -648,13 +648,16 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       venue:"JIIT 128",
       title:"IPL Auctions",
       date:"1st Feb",
-      time:"10:30 am",
+      time:"TBA",
       description:`A mock IPL auction, which gives its participants the thrill of being a part of a *real IPL* auction. You have to make your balanced team. The strongest team, in terms of ratings assigned to the players, wins the event.<br>
 <br>
 *Round 1 (QUIZ)*<br>
 1. There will be a quiz having 25 questions.<br>
 2. The questions will be based majorly on IPL and cricket in general.<br>
 3. There will be some star marked questions which will be having higher priority only in case of ties.<br>
+4. No use of stats guide or Internet would be allowed during the quiz.<br>
+5. Discussion between group members is permitted.<br>
+6.  Top 10 teams will qualify for the next and final round which is the Auctions.<br>
 <br>
 
 *Round 2 (AUCTIONS)*<br>
@@ -663,20 +666,13 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
 3. Each team will be having a fixed budget which they can use for auction.<br>
 4. Each player has a defined rating based on their current performances and record.<br>
 5. Some of the player stats would be provided during the auction.<br>
+NOTE: Players rating will NOT be solely dependent on these stats.<br>
+The total sum of all the player’s rating would ultimately decide the winner.<br>
+In case of any dispute, discrepancy organisers decision would be final.<br>
 <br>
 For any query, contact :7800216690`,
       rules:`
-      Team size: 1-4 members per team(Indivisual are also allowed)<br>
-      Registration fee:Rs 100/-<br>
-      *ROUND 1 (QUIZ)*<br>
-      1. No use of stats guide or Internet would be allowed during the quiz.<br>
-      2. Discussion between group members is permitted.<br>
-      3.  Top 10 teams will qualify for the next and final round which is the Auctions.<br>
-      <br>
-      
-      NOTE: Players rating will NOT be solely dependent on these stats.<br>
-      The total sum of all the player’s rating would ultimately decide the winner.<br>
-      In case of any dispute, discrepancy organisers decision would be final.<br>
+      TBA
       `,
       prizes:"TBA",
       code:"ipl",
@@ -728,6 +724,41 @@ The event duration will be 4 hrs<br>
       prizes:"TBA",
       code:"shd",
       link:'./register.html?q=shd'
+    },
+    {
+        image:"./assets/Events/pubg.png",
+        venue:"JIIT 128",
+        title:"PUBG",
+        date:"TBA",
+        time:"TBA",
+        description:`The highly anticipated game of the year is searching for its true worthy champ as Informals Branch of JIIT is coming up with the most hyped game of the year PUBG CONTEST is where you will have the chance to strike down your opponents and announce yourself as the sole leaders of this game. So what are you waiting for ? Grab your gizmos and get ready for a chicken dinner.<br>
+        *Registration fee* 
+        75 - individuals<br>
+        140 - duo<br>
+        200- for three<br>
+        250 - squad of 4<br>`,
+        rules:`
+            1. 2 classic matches( maps to be decided by voting)<br> 
+                1.1  1st classis match - top 10 teams will qualify<br>
+                1.2  2nd classic match- top 2 teams will qualify<br> 
+            2. 2nd round- tdm match between two qualified teams to decide the winner<br>
+            3. In case of any dispute and discrepancy, organizer's decision will be final<br>
+            4. Difficulty levels to be decided by organizers<br>`,
+        prizes:"1000 - winners<br> 800 - 1st runner up<br> 500 - Most kills<br>",
+        code:"pubg",
+        link:'./register.html?q=pubg'
+    },
+    {
+        image:"./assets/Events/gym.png",
+        venue:"JIIT 128",
+        title:"GYM",
+        date:"01-02-2020",
+        time:"10:00 am",
+        description:`*Bench Press*<br>Entry fees-200<br>*Triceps Dips*<br>Entry fees-100<br>Pushups(Only for 1st and 2nd years) :)`,
+        rules:`You know em'`,
+        prizes:`*Bench Press*<br>1st prize -1500<br>2nd prize-1000<br> *Triceps Dips*<br>1st prize-1000<br>Pushups(Boys)-750<br>Pushups(Girls)-750`,
+        code:"gym",
+        link:'./register.html?q=gym'
     }
 ];
 for (event in eventdata) {
