@@ -1,46 +1,46 @@
 let sponsordata =  [
   {
-    Name: "sponsor",
-    for: "type",
-    Image: "./assets/sponsors/conlogo.png"
+    Name: "La Pino's Pizza",
+    for: "Food and Beverage Partner",
+    Image: "./assets/sponsors/lapinos.png"
 
   },
 
   {
-    Name: "sponsor",
-    for: "type",
-    Image: "./assets/sponsors/conlogo.png"
+    Name: "Zoomcar",
+    for: "Commuting Partner",
+    Image: "./assets/sponsors/zoomcar.png"
 
   },
 
   {
-    Name: "sponsor",
-    for: "type",
-    Image: "./assets/sponsors/conlogo.png"
+    Name: "Whoosh",
+    for: "Fashion Partner",
+    Image: "./assets/sponsors/fashion.png"
 
   },
   {
-    Name: "sponsor",
-    for: "type",
-    Image: "./assets/sponsors/conlogo.png"
+    Name: "PrepBytes",
+    for: "Associate Partner",
+    Image: "./assets/sponsors/prepbytes.png"
 
   },
   {
-    Name: "sponsor",
-    for: "type",
-    Image: "./assets/sponsors/conlogo.png"
+    Name: "Fiesto.live",
+    for: "Media Partner",
+    Image: "./assets/sponsors/fiestolive.png"
 
   },
   {
-    Name: "sponsor",
-    for: "type",
-    Image: "./assets/sponsors/conlogo.png"
+    Name: "Yellow Diamond",
+    for: "Snacks Partner",
+    Image: "./assets/sponsors/yellowdiamond.png"
 
   },
   {
-    Name: "sponsor",
-    for: "type",
-    Image: "./assets/sponsors/conlogo.png"
+    Name: "Datatrained",
+    for: "Education Partner",
+    Image: "./assets/sponsors/datatrained.png"
 
   }
 
