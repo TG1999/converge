@@ -63,7 +63,7 @@ h1 {
 }
 
 #marquee-container {
-  background-color: transparent;
+  background-color: white;
   bottom: 0;
    width: 100%; /* or whatever you want */
    margin: 0 auto; /* centers it */
