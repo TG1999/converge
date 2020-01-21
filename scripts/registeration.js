@@ -1,5 +1,4 @@
 let eventName = window.location.search.split("=")[1]
-console.log('chane');
 let formData =
 
 [ {'code': "camb",
@@ -518,6 +517,5 @@ else
         },
         timeout: 10000
         });
-        console.log(JSON.stringify({'formData': json}))
     return false; //added to cancel the submit operation
   }
