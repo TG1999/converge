@@ -154,7 +154,7 @@ let formData =
       'formFields': {
         'Full name': 'text',
         'College name': 'text',
-        'Contact number': 'number',
+        'Contact number': 'tel',
         'Email id:': 'email'
       }
   },
@@ -166,6 +166,8 @@ let formData =
         'College name': 'text',
         'Email id': 'email',
         'Previous participations in marathon (yes/no)': 'text',
+        'year':'number',
+        'phone number':'tel'
       }
   },
   {
@@ -445,7 +447,20 @@ let formData =
       'College name': 'text',
       'Contact number': 'text'
     }
-  }
+  },
+ {
+     'code': 'pubg',
+     'formFields': {
+        'Name': 'text',
+        'Team Name': 'text',
+        'Team Size': 'number',
+        'Contact Number': 'text',
+        'Enrollment number(member 1)': 'text',
+        'Enrollment number(member 2)': 'text',
+        'Enrollment number(member 3)': 'text',
+        'Enrollment number(member 4)': 'text'
+     }
+ }
 ];
 let formHtml = document.getElementsByClassName("registrationForm")[0].getElementsByTagName("form")[0].innerHTML
 
