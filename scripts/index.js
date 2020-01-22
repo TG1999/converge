@@ -10,7 +10,7 @@ const showSide = () => {
   document.getElementById('loader-wrapper').style.display="none"
   document.getElementById('body-wrapper').style.display="block"
 }
-$('document').ready(showSide)
+$('.section-1').ready(showSide)
 
 
 // scroll keeper
