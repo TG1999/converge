@@ -117,7 +117,7 @@ let techData = [
     title: "ROBO HEIST",
     brief_description: "ROBOT RACE",
     link: "./event.html?eventname=roboH",
-    image: "./assets/robo.jpg"
+    image: "./assets/roboh.png"
   },
   {
     title: "Check & Mate",
@@ -128,6 +128,12 @@ let techData = [
 ]
 
 let informalarray=[
+{
+    title: "FIFA",
+    brief_description: "IT IS IN GAME",
+    link: "./event.html?eventname=fifa",
+    image: "./assets/images (1).jpeg"
+  },
   {
     title: "7 Realms",
     brief_description: "An authentic card game",
@@ -234,7 +240,7 @@ let sportsarray=[
   {
     title: "Football",
     brief_description: '',
-    link: "./event.html?eventname=football",
+    link: "./event.html?eventname=football1",
     image: "./assets/Events/football.png"
   },
   {
@@ -269,12 +275,7 @@ let sportsarray=[
     link: "./event.html?eventname=chess",
     image: "./assets/Events/chess.jpg"
   },
-  {
-    title: "GYM",
-    brief_description: '',
-    link: "./event.html?eventname=gym",
-    image: "./assets/Events/gym.png"
-  }
+  
 ];
 
 // Funtion to inject array to page

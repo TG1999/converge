@@ -13,6 +13,18 @@ eventdata=[
         link:'./register.html?q=groove'
     },
     {
+      image:"./assets/images (1).jpeg",
+      venue:"JIIT 128",
+      title:"FIFA",
+      date:"1st and 2nd Feb",
+      time:"10:00 AM to 5:00 PM",
+      description:"New Tournament of 4 every Hour<br>PS4 console with controllers provided<br>Tournament Prize: RS 500",
+      rules:"Tournament Entry Fees:RS 150<br>Free Play Entry Fees:RS 100",
+      prizes:"500",
+      code:'fifa',
+      link:'./register.html?q=fifa'
+  },
+    {
         image:"./assets/Events/inquizitive.png",
         venue:"JIIT 128",
         title:"INQUIZZITIVE",
@@ -115,7 +127,7 @@ eventdata=[
         date:"02-02-2020",
         time:"10:00:00 AM",
         description:"Confidence doesn't come when you have all the answers, but it comes when you are ready to face all the questions.<br>PANACHE- The fashion society of JIIT-128 presents MR. and MISS CONVERGE'20.<br>So boys and girls gear up yourselves and get your pretty dresses and suits out !!",
-        rules:"Rules & Regulations :<br>1. Participants to be from JIIT only.<br>2. Participants can be from any year.<br>3. Mtech students can also take part.<br>4. Only western clothes are allowed.<br>5. There will be 3 judges and 2 rounds (walk + PI).<br>6. Props are allowed.<br>7. Judging criteria will be confidence, dress, walk, question answer ability.",
+        rules:"Rules & Regulations :<br>1. Participants can be from any college<br>2. Participants can be from any year.<br>3. Registartion fees Rs.100 per participant<br>4. Mtech students can also take part.<br>5. Only western clothes are allowed.<br>6. There will be 3 judges and 2 rounds (walk + PI).<br>7. Props are allowed.<br>8. Judging criteria will be confidence, dress, walk, question answer ability.",
         prizes:"TBA",
         code:"mconv",
         link:'./register.html?q=mconv'
@@ -356,7 +368,7 @@ eventdata=[
       date:"31-01-20",
       description:`Football match<br>
         For any queries/registration, contact:<br>
-        Uttkarsh - 9889462587<br>
+        Utkarsh - 9889462587<br>
         Prakhanshu - 8726838994`,
       rules:`
         Age limit:24<br>
@@ -366,7 +378,7 @@ eventdata=[
       `,
       prizes:"TBA",
       code:"football",
-      link:'./register.html?q=football'
+      link:'./register.html?q=football1'
     },
     {
       image:"./assets/Events/tt.png",
@@ -616,14 +628,14 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       link:'./register.html?q=bheja'
     },
     {
-      image:"./assets/robo.jpg",
+      image:"./assets/roboh.png",
       venue:"JIIT 128",
       title:"Robo Heist",
       date:"1st Feb",
       time:"10:00 am",
       description:`Your team must build a manually controlled bot which can overcome obstacles and complete the run by earning maximum point in minimum time. The bot can be wired or wireless. In case the participants use a wireless mechanism, they must use a dual frequency remote.`,
       rules:`
-      TBA
+      <a href='./assets/robo.pdf'><button>Click to download</button></a>
       `,
       prizes:"worth 50,000",
       code:"roboH",
@@ -728,18 +740,6 @@ The event duration will be 4 hrs<br>
       prizes:"TBA",
       code:"shd",
       link:'./register.html?q=shd'
-    },
-    {
-    image:"./assets/Events/gym.png",
-    venue:"JIIT 128",
-    title:"GYM",
-    date:"01-02-2020",
-    time:"10:00 am",
-    description:`Bench Press<br>Entry fees-200<br>Triceps Dips<br>Entry fees-100<br>Pushups(Only for 1st and 2nd years) :)`,
-    rules:`You know em'`,
-    prizes:`Bench Press<br>1st prize -1500<br>2nd prize-1000<br>Triceps Dips<br>1st prize-1000<br>Pushups(Boys)-750<br>Pushups(Girls)-750`,
-    code:"gym",
-    link:'./register.html?q=gym'
     },
     {
         image:"./assets/Events/pubg.png",
