@@ -2,7 +2,7 @@ let powereddata=[
   {
     Name: "Grog",
     for: "Powered By",
-    Image: "./assets/sponsor/grog.png",
+    Image: "./assets/sponsor/9.jpg",
     link:'./'
   },
    {
@@ -18,7 +18,7 @@ let powereddata=[
   {
     Name: "KTM",
     for: "Associate Partner",
-    Image: "./assets/sponsor/KTM.png",
+    Image: "./assets/sponsor/4.jpg",
     link:'https://www.ktm.com/'
   }
 ]
@@ -27,26 +27,26 @@ let sponsordata =  [
   {
     Name: "Woosh",
     for: "Fashion Partner",
-    Image: "./assets/sponsor/WhooshBlack.png",
+    Image: "./assets/sponsor/36.jpg",
     link:"https://whoosh.com/"
   },
   {
     Name: "PrepBytes",
     for: "Technical Partner",
-    Image: "./assets/sponsor/prepbytes (2).png",
+    Image: "./assets/sponsor/29.jpg",
     link:'https://www.prepbytes.com/'
 
   },
    {
     Name: "Data Trained",
     for: "Training Partner",
-    Image: "./assets/sponsor/atatrained.png",
+    Image: "./assets/sponsor/1.jpg",
     link:"https://www.datatrained.com/"
   },
   {
     Name: "Anytime Fitness",
     for: "Gyming Partner",
-    Image: "./assets/sponsor/AnytimeFitnessLogo.png",
+    Image: "./assets/sponsor/2.jpg",
     link:'https://www.anytimefitness.com/'
   },
   {
