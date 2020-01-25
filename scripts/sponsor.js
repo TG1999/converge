@@ -49,12 +49,30 @@ let sponsordata =  [
     Image: "./assets/sponsor/AnytimeFitnessLogo.png",
     link:'https://www.anytimefitness.com/'
   },
-  // {
-  //   Name: "IAS Academy",
-  //   for: "Education Partner",
-  //   Image: "./assets/sponsor/atatrained.png"
-
-  // }
+  {
+    Name: "IAS Academy",
+    for: "Education Partner",
+    Image: "./assets/sponsor/27.jpg",
+    link: 'https://www.nextias.com/'
+ },
+ {
+   Name: "ACE Engineering",
+   for: "Learning Partner",
+   Image: "./assets/sponsor/23.jpg",
+   link: 'https://www.aceenggacademy.com/'
+ },
+  {
+    Name: "Gamers Sanctuary",
+    for: "Gaming Partner",
+    Image: "./assets/sponsor/15.jpg",
+    link: './'
+  },
+  {
+    Name: "Doctor Titoria",
+    for: "Medical Partner",
+    Image: "./assets/sponsor/21.jpg",
+    link: './'
+  }
 
 ]
 
