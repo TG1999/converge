@@ -209,7 +209,7 @@ eventdata=[
         rules:`
       <a href='./assets/youth.pdf'><button>Click to download</button></a>
       `,
-        prizes:"TBA",
+        prizes:"Cash Prize worth 15K",
         code:"marathon",
         link:'./register.html?q=marathon'
     },
