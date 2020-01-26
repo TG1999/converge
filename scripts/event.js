@@ -204,9 +204,11 @@ eventdata=[
         venue:"JIIT 128",
         title:"Youth Marathon",
         date:"1st Feb 2020",
-        time:"9:00:00 AM",
+        time:"08:20:00 AM",
         description:"This event's prime purpose is to spread awareness about the rights and education of the girl child. Students participating in this marathon will run across the Jaypee wish town, which is 5km in distance.",
-        rules:"TBA",
+        rules:`
+      <a href='./assets/youth.pdf'><button>Click to download</button></a>
+      `,
         prizes:"TBA",
         code:"marathon",
         link:'./register.html?q=marathon'
