@@ -211,7 +211,7 @@ With all such positive ambitions in mind the future of India can be laid into se
         Registration Fees: Rs.100<br>
         The amount can be sent to 9971865695 through GPay/Paytm and mention Team name in comment.
         `,
-        prizes:"TBA",
+        prizes:"Total Prizes worth more than 25k. Vouchers worth ₹1000 for each participant. Internship opportunities for winning teams. Special prizes for best first year and best girl's team.",
         code:"algoflux",
         link:'./register.html?q=algoflux'
     },
