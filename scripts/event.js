@@ -7,10 +7,22 @@ eventdata=[
         date:"01-02-2020",
         time:"12:30:00 PM",
         description:"The job of feet is walking, but it's hobby is dancing!<br>So be in your highest spirits as VamUnique- The western dance society of Jaypee Institute of Information Technology is all agog to present to you -GROOVE, Western Group Dance Competition.<br> The event is going to be held during CONVERGE 2020.",
-        rules:"The maximum team limit for the competition is of 25 members.<br>There will be an on the spot registration fee for the event.<br>The competition consists of two rounds:- The video preliminary round and the final round.<br>Kindly adhere to the following rules:<br>Preliminary Round<br>1. Register with the link to your performance video latest by 22 January 2020. Any last minute requests would not be entertained.<br>2. The video should be a showcase of 2019 or 2020.<br>3. The video should not be longer than 8 minutes.<br>Final Round<br>1. On stage limit is of 5-15 members.<br>2. The time limit of the performance is 6-10 mins plus 1 minute for stage setup and marking.<br>3. Teams need to bring their track in pendrives.<br>Rest of the rules will be acquainted with the selected teams.<br>The results of the preliminary round will be announced on 24 January 2020<br>For more information, contact<br>Pranav Mangla (Head) : 9582552722<br>Radhika Berry: 8447121378",
+        rules:"The maximum team limit for the competition is of 25 members.<br>The competition consists of two rounds:- The video preliminary round and the final round.<br>Kindly adhere to the following rules:<br>Preliminary Round<br>1. Register with the link to your performance video latest by 22 January 2020. Any last minute requests would not be entertained.<br>2. The video should be a showcase of 2019 or 2020.<br>3. The video should not be longer than 8 minutes.<br>Final Round<br>1. On stage limit is of 5-15 members.<br>2. The time limit of the performance is 6-10 mins plus 1 minute for stage setup and marking.<br>3. Teams need to bring their track in pendrives.<br>Rest of the rules will be acquainted with the selected teams.<br>The results of the preliminary round will be announced on 24 January 2020<br>For more information, contact<br>Pranav Mangla (Head) : 9582552722<br>Radhika Berry: 8447121378",
         prizes:"TBA",
         code:'groove',
         link:'./register.html?q=groove'
+    },
+    {
+        image:"./assets/Events/shutter.jpg",
+        venue:"JIIT 128",
+        title:"SHUTTER STOCK",
+        date:"1st and 2nd Feb",
+        time:"",
+        description:"They say that we are reckless they say that we don't know. Now is our time, for the young knows no fear. Consequences, we don't fear them. Challenges, we look them in the eyes. Passion, is the thing that drives us. Destiny, we shape it with our own hands. So take pride in what you are, young and restless.",
+        rules:"Theme:- Young and Restless <br> Upload your pictures on Instagram and Don't forget to use #youngandrestless #spykar #auraspykar",
+        prizes:"3000",
+        code:'shutter',
+        link:'./register.html?q=shutter'
     },
     {
       image:"./assets/images (1).jpeg",
@@ -36,18 +48,7 @@ eventdata=[
         code:"inquizzitive",
         link:'./register.html?q=inquizzitive'
     },
-    {
-        image:"./assets/Events/rihaa.jpg",
-        venue:"JIIT 128(main circle near main gate)",
-        title:"RIHAA",
-        date:"01-02-2020 and 02-02-2020",
-        time:"10:00:00 AM",
-        description:"रंगीले अंदाज़, जोशीले अल्फ़ाज़, होने को हैं अब नुक्कड़ का आगाज़<br>RIHAA - The Street Play Event, brings to you the opportunity to showcase your talent and depict your message to the mass.<br>LAST DATE TO REGISTER : January 27, 2019<br>TIME DURATION : 20 minutes + 2 minutes for arena setup. Total time will be counted from empty stage to empty stage.<br>TEAM SIZE : 23+2 performing members, at any given time on stage.",
-        rules:"• Use of derogatory terms are strictly prohibited. Their usage may lead to immediate disqualification.<br>• The organising team won't be providing any kind of props for the performance. The performing team should bring their own props and clear the stage after their performance.<br>• Participants should carry their college ID cards with them.<br>• Any form of electronic music is not allowed.<br>• The play can be in either English, or Hindi. Traces from regional language are allowed.<br>• The play can be stopped at any point of time by the judges if they find it unfit to continue.<br>• Script should not contain any kind of content that is either offensive, or hurts the sentiments of any social group.<br>• The decision of the Judges and Organizing Committee will be final and binding.<br>• The script and synopsis should be mailed to abhivyakti128@gmail.com before the deadline.",
-        prizes:"TBA",
-        code:"rihaa",
-        link:'./register.html?q=rihaa'
-    },
+ 
     {
         image:"./assets/Events/mehfil.png",
         venue:"JIIT 128",
@@ -59,30 +60,6 @@ eventdata=[
         prizes:"TBA",
         code:"mehfil",
         link:'./register.html?q=mehfil'
-    },
-    {
-        image:"./assets/Events/advaya.png",
-        venue:"JIIT 128",
-        title:"ADVAYA",
-        date:"02-02-2020",
-        time:"TBA",
-        description:"Solo Folk/Classical Dance Competition",
-        rules:"<a href='./assets/advaya_rules.pdf' ><button>Click to download</button></a>",
-        prizes:"TBA",
-        code:"advaya",
-        link:'./register.html?q=advaya'
-    },
-    {
-        image:"./assets/Events/sabrang.png",
-        venue:"JIIT 128",
-        title:"SABRANG",
-        date:"02-02-2020",
-        time:"TBA",
-        description:"Group Folk Dance Competition",
-        rules:"<a href='./assets/sabrang_rules.pdf'><button>Click to download</button></a>",
-        prizes:"TBA",
-        code:"sabrang",
-        link:'./register.html?q=sabrang'
     },
     {
         image:"./assets/Events/ppr.png",
@@ -215,10 +192,16 @@ eventdata=[
         venue:"JIIT 128",
         title:"Youth Marathon",
         date:"1st Feb 2020",
-        time:"9:00:00 AM",
-        description:"This event's prime purpose is to spread awareness about the rights and education of the girl child. Students participating in this marathon will run across the Jaypee wish town, which is 5km in distance.",
-        rules:"TBA",
-        prizes:"TBA",
+        time:"08:45:00 AM",
+        description:`Staying fit should be seen as a responsibility rather than burden.  Studies prove that a fit person tends to achieve way more goals than an average person who just procrastinates regarding his/her fitness.
+Fit India Movement tools for people who want to lead a healthy life and reach their fitness goals. It provides a unique and exciting opportunity to work towards a healthier India. As part of the movement, individuals and organizations can undertake various efforts for their own health and well-being as well as for fellow Indians.  All Indians must make a promise to make their nation a fit nation.
+ 
+Being fit helps us improve our learning skill and it also fights back from all the negative impacts on Students’ mental health such as anxiety, depression, panic attack etc. Once the habit of regular exercise is collaborated with daily education it can be a boon for the future of nation. Keeping this idea in mind government has also launched Educate India which is a programme for achievement of Universalization of Elementary Education (UEE) in a time bound manner. It aims to provide quality elementary education including soft skills such as life skills. Also, it seeks to provide computer education to bridge the digital divide.
+With all such positive ambitions in mind the future of India can be laid into secure hands.`,
+        rules:`
+      <a href='./assets/youth.pdf'><button>Click to download</button></a>
+      `,
+        prizes:"Cash Prize worth 15K",
         code:"marathon",
         link:'./register.html?q=marathon'
     },
@@ -240,7 +223,7 @@ eventdata=[
         Registration Fees: Rs.100<br>
         The amount can be sent to 9971865695 through GPay/Paytm and mention Team name in comment.
         `,
-        prizes:"TBA",
+        prizes:"Total Prizes worth more than 25k. Vouchers worth ₹1000 for each participant. Internship opportunities for winning teams. Special prizes for best first year and best girl's team.",
         code:"algoflux",
         link:'./register.html?q=algoflux'
     },
@@ -258,7 +241,7 @@ eventdata=[
       Timings : 9:30 Onwards <br>
       Venue : CL2 , JIIT128
       `,
-      prizes:"TBA",
+      prizes:"Total Prizes worth 10k + Bonus vouchers.",
       code:"codft",
       link:'./register.html?q=codft'
     },
@@ -274,7 +257,7 @@ eventdata=[
       Timing: 2-4pm<br>
       Venue:Cl2, JIIT 128
       `,
-      prizes:"TBA",
+      prizes:"Total Prizes worth 10k. Special prizes for best first year and best girl's team.",
       code:"rpdfire",
       link:'./register.html?q=rpdfire'
     },
@@ -377,7 +360,7 @@ eventdata=[
         ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK <br>
       `,
       prizes:"TBA",
-      code:"football",
+      code:"football1",
       link:'./register.html?q=football1'
     },
     {
@@ -712,8 +695,9 @@ Entry fee : 100<br>
 The participants will be given basic colour paints and they can bring their paints with themselves too..<br>
 The participants are not required to use any kind of brushes and need to paint with material apart from brushes<br>
 The event duration will be 4 hrs<br>
+PS - Not only for artists, open for everyone
       `,
-      prizes:"TBA",
+      prizes:"Prizes worth 1500<br> Certificates for all",
       code:"brshFF",
       link:'./register.html?q=brshFF'
     },
@@ -737,7 +721,7 @@ The participants can use  other pencils but they should be of two kind only. <br
 Prize worth-yet to be decided<br>
 The event duration will be 4 hrs<br>
       `,
-      prizes:"TBA",
+      prizes:"Prizes worth 1500<br> Certificates for all",
       code:"shd",
       link:'./register.html?q=shd'
     },
@@ -754,13 +738,11 @@ The event duration will be 4 hrs<br>
             2. 2nd round- tdm match between two qualified teams to decide the winner<br>
             Difficulty level will be set by the organizers<br>
             Registration fees:<br>
-            Individual entry-75<br>
-            Duo - 140<br>
-            Squad of 3 - 200<br>
-            Squad of 4 - 250<br>
+            Individual entry-30<br>
+            Squad of 4 - 100<br>
             For further queries - 8200995426<br>`,
         rules:"In case of any dispute and discrepancy, organizer's decision will be final.",
-        prizes:"1000 - winners<br>800 - 1st runner ups<br>500 - Most kill<br>",
+        prizes:"Tournament Winner-500<br>1st Runnerup-300<br>Most Kills-100<br>",
         code:"pubg",
         link:'./register.html?q=pubg'
     }
@@ -772,7 +754,8 @@ if (eventdata[event].code==searchCategory) {
     }
 }
 document.title = final.title
-data=`<div class="container">
+if(final.code!='shutter')
+{data=`<div class="container">
 <div class=" row event-head-wrapper mb-4">
     <div class="col-sm-4 event-image-wrapper">
         <img src="${final.image}" alt="">
@@ -810,6 +793,47 @@ ${final.prizes}
 </p>
 </div>
 </div>`
+}
+else
+{
+    data=`<div class="container">
+<div class=" row event-head-wrapper mb-4">
+    <div class="col-sm-4 event-image-wrapper">
+        <img src="${final.image}" alt="">
+    </div>
+    <div class="col-sm-8 event-title-wrapper">
+      <h1>${final.title}</h1>
+      <div class="venue">
+        <h3><b>DATE:</b> ${final.date}</h3>
+        <h3><b>TIME:</b> ${final.time}</h3>
+        <h3><b>VENUE:</b> ${final.venue}</h3>
+      </div>
+      <div style="text-align: end;max-width: 90%;margin-top: 35px;">
+      </div>
+    </div>
+</div>
+<div class="event-content row">
+    <ul class="myNav">
+            <li class="content-heading bold">Description</li>
+            <li class="content-heading">Rules</li>
+            <li class="content-heading">Prizes</li>
+</ul>
+
+
+
+<!-- Content Paragraphs -->
+<p id="description" class="main-content block">
+${final.description}
+</p>
+<p id="rules" class="main-content">
+${final.rules}
+</p>
+<p id="prizes" class="main-content">
+${final.prizes}
+</p>
+</div>
+</div>`
+}
 document.getElementById('event').innerHTML=data
 
 

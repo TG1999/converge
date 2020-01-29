@@ -18,34 +18,13 @@ let cultureData =
     brief_description: "Dance Competition",
     link: "./event.html?eventname=groove",
     image: "./assets/Events/groove.png"
-  },
-
-  {
-    title: "RIHAA",
-    brief_description: "Street Play Event",
-    link: "./event.html?eventname=rihaa",
-    image: "./assets/Events/rihaa.jpg"
-  },
+ },
 
   {
     title: "MEHFIL",
     brief_description: "The Open Mic Show",
     link: "./event.html?eventname=mehfil",
     image: "./assets/Events/mehfil.png"
-  },
-
-  {
-    title: "ADVAYA",
-    brief_description: "Solo Folk/Classical Dance Competition",
-    link: "./event.html?eventname=advaya",
-    image:"./assets/Events/advaya.png"
-  },
-
-  {
-    title: "SABRANG",
-    brief_description: "Group Folk Dance Competition",
-    link: "./event.html?eventname=sabrang",
-    image: "./assets/Events/sabrang.png"
   },
 
   {
@@ -85,7 +64,12 @@ let cultureData =
     link: "./event.html?eventname=crsd",
     image: "./assets/Events/crsd.jpg"
   },
-  
+ {
+    title: "Shutter Stock",
+    brief_description: "LIVE PHOTOGRAPHY COMPETITION",
+    link: "./event.html?eventname=shutter",
+    image: "./assets/Events/shutter.jpg"
+  } 
 ]
 
 let techData = [
