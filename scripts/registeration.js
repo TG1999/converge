@@ -222,7 +222,7 @@ let formData =
       }
   },
   {
-    'code': "football1",
+    'code': "foo",
     'formFields': {
       'Team name': 'text',
       'Team Captain Name': 'text',
