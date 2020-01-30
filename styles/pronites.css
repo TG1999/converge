@@ -2,6 +2,7 @@
 
 #hltsheading {
   margin: auto;
+  font-size: 7rem;
 }
 
 #menu-btn {
@@ -10,19 +11,27 @@
 }
 
 .hlts {
-  min-height: 100vh;
+  /* min-height: 100vh; */
 }
 
 .mycontainer{
-  margin-left: 4rem;
-  margin-right: 4rem;
+  margin: 0;
+  padding: 0;
+  /* padding-right: 10px; */
 }
 .card {
+  padding-bottom: 3%;
   box-shadow: 0px 0px 10px #437bc4;
   background-color: #272727 !important;
   border: none !important;
-  margin: 1rem;
-  width: 18rem;
+  margin: 0;
+  display: flex;
+  width: 100%;
+}
+
+
+.card-text{
+  font-size: 1.5rem;
 }
 
 p,
@@ -32,7 +41,7 @@ h1 {
 }
 
 .card-body h5 {
-  font-size: 1.75rem;
+  font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -43,10 +52,12 @@ h1 {
 }
 
 .date-time h5 {
+  font-size: 3rem;
   color: #437bc4 !important;
 }
 
 .date-time h1 {
+  font-size: 4rem;
   font-weight: bold;
 }
 
@@ -81,9 +92,11 @@ h1 {
   padding-right: 5px;
 }
 @media screen and (min-width: 600px) {
-  .card{
-    /* margin-left: 4rem;
-    margin-right: 4rem; */
+  /* large screen */
+  .card img{
+    align-self: center;
+    width: 35%;
+    height: 35%;
   }
   .myrow1{
     display: flex;
@@ -102,6 +115,27 @@ h1 {
 }
 
 @media screen and (max-width: 600px) {
+  /* small version */
+  #hltsheading {
+    font-size: 4rem;
+  }
+  .date-time h5 {
+    font-size: 2rem;
+    color: #437bc4 !important;
+  }
+
+  .date-time h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  .card{
+    padding-bottom: 5%;
+  }
+  .card img{
+    align-self: center;
+    width: 70%;
+    height: 70%;
+  }
   .myrow1{
     display: flex;
     align-items: center;
