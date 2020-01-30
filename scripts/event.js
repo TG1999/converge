@@ -19,7 +19,7 @@ eventdata=[
         date:"1st and 2nd Feb",
         time:"",
         description:"They say that we are reckless they say that we don't know. Now is our time, for the young knows no fear. Consequences, we don't fear them. Challenges, we look them in the eyes. Passion, is the thing that drives us. Destiny, we shape it with our own hands. So take pride in what you are, young and restless.",
-        rules:"Theme:- Young and Restless <br> Upload your pictures on Instagram and Don't forget to use #youngandrestless #spykar #auraspykar",
+        rules:"Theme:- Young and Restless <br> Upload your pictures on Instagram and Don't forget to use #youngandrestless #spykar #auraspykar<br>For your entries to be valid, keep your account public",
         prizes:"3000",
         code:'shutter',
         link:'./register.html?q=shutter'
