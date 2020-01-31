@@ -209,7 +209,7 @@ let sponsordata =  [
     Name: "GNC",
     for: "Fitness Partner",
     Image: "./assets/sponsor/10.jpg",
-    link: 'https://www.gnc.com/'
+    link: 'https://www.guardian.in'
   },
   {
     Name: "DU express",
