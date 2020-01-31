@@ -261,7 +261,7 @@ With all such positive ambitions in mind the future of India can be laid into se
       code:"rpdfire",
       link:'./register.html?q=rpdfire'
     },
-    {
+    /*{
       image:"./assets/Events/bdmntnboys.png",
       venue:"JIIT 128",
       title:"Badminton boys",
@@ -459,7 +459,7 @@ ID CARDS MANDATORY AND WILL BE CHECKED AT REGISTRATION DESK<br>
       prizes:"TBA",
       code:"chess",
       link:'./register.html?q=chess'
-    },
+    },*/
 {
       image:"./assets/Events/rlms.jpg",
       venue:"JIIT 128",
